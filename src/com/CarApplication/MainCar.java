@@ -8,5 +8,7 @@ public static void main(String[] arguments) {
         myOldCar.printCar();
            Car myNewCar = new Car("Lic3", "Chrysler", "Green");
         myNewCar.printCar();
+           Car myNextCar = new Car("Lic4", "Ferrari", "Red");
+        myNextCar.printCar();
     }
 }
