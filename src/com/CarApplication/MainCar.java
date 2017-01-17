@@ -6,5 +6,7 @@ public static void main(String[] arguments) {
         myCar.printCar();
         Car myOldCar = new Car("Lic2", "Mazda", "Red");
         myOldCar.printCar();
+           Car myNewCar = new Car("Lic3", "Chrysler", "Green");
+        myNewCar.printCar();
     }
 }
